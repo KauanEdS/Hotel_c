@@ -1,1 +1,12 @@
-hotel.exe
+# Arquivos compilados e executáveis
+*.exe
+*.o
+*.out
+*.dll
+
+# Arquivos temporários e de sistema
+.vscode/
+.idea/
+.DS_Store
+
+.bin
